@@ -621,6 +621,12 @@ body{
     .mess-form{
         align-items: center;
     }
+
+    .profile-img img {
+        height: 80%;
+        width: 100%;
+        transition: 0.5s;
+    }
 }
 
 
