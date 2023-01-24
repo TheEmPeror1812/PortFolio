@@ -535,7 +535,7 @@ body{
     }
 
     .coding_img{
-        width: 100%;
+        width: 60%;
         
     }
 
@@ -553,6 +553,7 @@ body{
 
     .profile-img{
         right: 0px;
+        width: 80%;
     }
 
     #full{
@@ -601,7 +602,7 @@ body{
     }
 
     .coding_img{
-        width: 80%;
+        width: 60%;
     }
 
     .coding_img img{
@@ -615,6 +616,10 @@ body{
 
     #hi{
         width: 100%;
+    }
+
+    .mess-form{
+        align-items: center;
     }
 }
 
